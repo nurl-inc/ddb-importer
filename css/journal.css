@@ -1,0 +1,674 @@
+div.journal-sheet div.ddbimporter-image-container {
+  position: relative;
+}
+
+div.journal-sheet div.ddbimporter-image-container a.ddbimporter-show-image {
+  max-width: 255px;
+  background: #2f0000d6;
+  -webkit-box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.5);
+          box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.5);
+  border-radius: 3px;
+  margin-left: 10px;
+  display: block;
+  padding: 8px 16px;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: auto;
+  -webkit-transform: translate(-20px, 20px);
+          transform: translate(-20px, 20px);
+}
+
+div.journal-sheet div.ddbimporter-image-container a.ddbimporter-to-chat {
+  max-width: 255px;
+  background: #2f0000d6;
+  -webkit-box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.5);
+          box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.5);
+  border-radius: 3px;
+  margin-left: 10px;
+  display: block;
+  padding: 8px 16px;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: auto;
+  -webkit-transform: translate(-20px, 60px);
+          transform: translate(-20px, 60px);
+}
+
+.ddbimporter-chat-image{
+  border-radius: 5px;
+  border-color: transparent;
+  width: 100%;
+}
+
+a.ddbimporter.roll{
+  font-family: "Signika", sans-serif;
+  color: #191813;
+  -webkit-user-drag: element;
+  box-sizing: border-box;
+  cursor: pointer;
+  user-select: text;
+  background: #DDD;
+  padding: 1px 4px;
+  border: 1px solid #4b4a44;
+  border-radius: 2px;
+  white-space: nowrap;
+  word-break: break-all;
+}
+
+div.ddbimporter-image-popout {
+  display: none;
+  z-index: 50;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.75);
+}
+
+div.ddbimporter-image-popout img {
+  border: none;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+
+  object-fit: contain;
+  width: 90%;
+  height: 90%;
+}
+
+.ddb-adventure aside.block-torn-paper, .ddb-adventure aside.epigraph, .ddb-adventure aside.epigraph--with-author {
+  overflow: auto;
+  background: var(--theme-quote-bg-color,#fff);
+  color: var(--theme-quote-fg-color,#242527);
+  margin: 40px 0;
+  line-height: 1.6;
+  font-size: 14px;
+  border: solid transparent;
+  border-width: 20px 10px;
+  border-image-source: var(--theme-quote-border,url(https://media.dndbeyond.com/ddb-compendium-client/5f1f1d66d16be68cf09d6ca172f8df92.png));
+  border-image-repeat: repeat;
+  border-image-slice: 20 10 20 10 fill;
+  padding: 10px;
+  position: relative;
+}
+
+.ddb-adventure aside.rules-text {
+  overflow: auto;
+  display: block;
+  margin: 30px 0;
+  line-height: 1.6;
+  font-size: 14px;
+  color: var(--theme-rules-text-fg-color,#242527);
+  border-color: transparent;
+  border-style: solid;
+  border-width: 15px 20px;
+  border-image-repeat: repeat;
+  border-image-slice: 20 30 20 30 fill;
+  background-color: transparent;
+  padding: 20px 10px 10px;
+  position: relative;
+  border-image-source: var(--theme-rules-text-border,url(https://media.dndbeyond.com/ddb-compendium-client/463d4668370589a1a73886611645df7e.png));
+  -webkit-filter: drop-shadow(0 5px 8px #ccc);
+  filter: drop-shadow(0 5px 8px #ccc);
+}
+
+.ddb-adventure aside.read-aloud-text {
+  overflow: auto;
+  display: block;
+  margin: 30px 0;
+  line-height: 1.6;
+  font-size: 14px;
+  color: var(--theme-read-aloud-fg-color,#242527);
+  border: 8px solid transparent;
+  border-image-repeat: repeat;
+  border-image-slice: 8 8 8 8 fill;
+  background-color: transparent;
+  padding: 20px 20px 10px !important;
+  position: relative;
+  border-image-source: var(--theme-read-aloud-border,url(https://media.dndbeyond.com/ddb-compendium-client/146117d0758df55ed5ff299b916e9bd1.png));
+}
+
+.ddb-adventure .text--quote-box, .ddb-adventure .text-quote-box {
+  display: block !important;
+  background-color: var(--compendium-quote-box-color, #FAF8EC) !important;
+  padding: 20px 25px 15px 25px !important;
+  position: relative !important;
+  width: auto !important;
+  display: flex !important;
+  flex-direction: column !important;
+  overflow: visible !important;
+  border-radius: 0 !important;
+  border-left: 1px solid !important;
+  border-right: 1px solid !important;
+  border-color: var(--compendium-quote-box-border, #620000) !important;
+  border-top: 0;
+  border-bottom: 0;
+  color: var(--theme-page-fg-color) !important;
+  margin: 40px 0px !important;
+  line-height: 1.6 !important;
+  font-size: 14px !important;
+}
+
+.ddb-adventure .text--quote-box::before, .ddb-adventure .text--quote-box::after {
+  content: '';
+  border-radius: 50%;
+  background-position: left !important;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  height: 8px !important;
+  width: 8px !important;
+  left: -4px !important;
+  position: absolute !important;
+  background-color: var(--compendium-quote-box-corner, #620000);
+  box-sizing: inherit;
+  -webkit-tap-highlight-color: transparent;
+  outline: 0;
+}
+
+
+.ddb-adventure .stat-block-background {
+  background-repeat: no-repeat;
+  -webkit-box-shadow: 0px 5px 8px 0px #aaa;
+  -moz-box-shadow: 0px 5px 8px 0px #aaa;
+  box-shadow: 0px 5px 8px 0px #aaa;
+  background-position: top center !important;
+  background-image: url(https://media.dndbeyond.com/compendium-images/tcoe/0gqawlEa2tjXGxpc/mm_statbg_sm.jpg) !important;
+}
+
+.ddb-adventure h2.compendium-hr,
+.ddb-adventure h3.compendium-hr,
+.ddb-adventure h4.compendium-hr,
+.ddb-adventure h4.Core-Styles_Core-Body,
+.ddb-adventure h4.quick-menu-exclude.Table_Table-Title,
+.ddb-book-header{
+  font-weight: bold;
+}
+
+.ddb-adventure .compendium-image-subtitle, .ddb-adventure .compendium-image > figcaption {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 700;
+  font-style: italic;
+  text-transform: uppercase;
+  margin: 10px 0;
+}
+
+.ddb-adventure p.Table-Styles_Table-Title {
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 19.5px;
+  margin-bottom: 6.5px;
+}
+
+.ddb-adventure .compendium-left-aligned-table th:nth-child(1) {
+  text-align: center !important;
+  width: 80px !important;
+}
+
+.ddb-adventure .summoning-creatures-table td:nth-child(1), .ddb-adventure .compendium-left-aligned-table td:nth-child(1) {
+  vertical-align: middle !important;
+  padding: 8px 20px !important;
+  line-height: 1.4 !important;
+  text-align: center !important;
+}
+
+.ddb-adventure .table-compendium.table--generic-dice td:first-child,
+.ddb-adventure .table-compendium.table--generic-dice th:first-child {
+  width: 12% !important;
+  text-align: center !important;
+  vertical-align: middle !important;
+}
+
+.ddb-adventure blockquote.adventure-read-aloud-text::before,
+.ddb-adventure blockquote.adventure-read-aloud-text::after {
+  background-image: url("../images/icons/dot.svg"),url("../images/icons/dot.svg") !important;
+  background-position: left,right;
+  background-size: contain !important;
+  background-repeat: no-repeat;
+  height: 8px !important;
+  left: -4px !important;
+  right: -4px !important;
+}
+
+.ddb-adventure blockquote.adventure-read-aloud-text,
+.ddb-adventure blockquote.compendium-parchment-blockquote,
+.ddb-adventure blockquote.ddb-blockquote {
+  background: white;
+  padding: 20px;
+  position: relative;
+  width: auto;
+  /* display: -webkit-flex; */
+  /* display: -ms-flexbox; */
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  border-left: 1px solid #e0dcdc;
+  border-right: 1px solid #e0dcdc;
+  border-top: 0;
+  border-bottom: 0;
+  overflow: visible;
+  border-radius: 0;
+  color: #242527;
+  margin: 40px 0;
+  line-height: 1.6;
+}
+
+.ddb-adventure blockquote.adventure-read-aloud-text {
+  display: block !important;
+  background-color: #e6e7ec !important;
+  border-color: #979aa4 !important;
+}
+
+.ddb-adventure .Flowchart-Block {
+  border-width: 16px 16px 16px 16px !important;
+  border-style: solid !important;
+  border-color: transparent !important;
+  border-image-repeat: repeat !important;
+  border-image-slice: 16 16 16 16 fill !important;
+  background-color: transparent !important;
+  padding: 10px !important;
+  position: relative !important;
+  border-image-source: url(https://media-waterdeep.cursecdn.com/attachments/7/571/blockquote-flowchart.png) !important;
+  font-size: 14px;
+  line-height: 1.6 !important;
+  margin: 50px 0px 20px 0px !important;
+}
+
+.ddb-adventure .Flowchart-Heading {
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 16px;
+}
+
+.ddb-adventure .Flowchart-Block {
+  font-size: 14px;
+  line-height: 1.6 !important;
+}
+
+.ddb-adventure .Flowchart-Subheading {
+  font-style: italic;
+  text-align: center;
+  font-size: 16px;
+}
+
+.ddb-adventure .Flowchart-Block-Linked::before {
+  content: '';
+  border-left: 3px solid #cdb078;
+  height: 100px;
+  left: 50%;
+  position: absolute;
+  margin-top: -80px;
+  z-index: -1;
+}
+
+.ddb-adventure aside.vrgtr-flowchart--1 {
+  background-image: url(https://media.dndbeyond.com/compendium-images/vrgtr/U9mBj5XfiTD1mHie/flowchart-box-01.png);
+}
+.ddb-adventure aside.vrgtr-flowchart {
+  text-align: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  padding: 30px 20% !important;
+  margin: 0px 0px;
+}
+
+.Core-Styles_Core-Metadata, .Serif-Character-Style_Inline-Subhead-Serif, .Serif-Character-Style_Italic-Serif, .Serif-Character-Style_Inline-Subhead-Serif, .Sans-Serif-Character-Styles_Italic-Sans-Serif, .Sans-Serif-Character-Styles_Bold-Italic-Sans-Serif, .Serif-Character-Style_Bold-Italic-Serif  {
+  font-style: italic;
+}
+
+.Serif-Character-Style_Bold-Serif, .Serif-Character-Style_Inline-Subhead-Serif, .Sans-Serif-Character-Styles_Bold-Sans-Serif, .Sans-Serif-Character-Styles_Bold-Italic-Sans-Serif, .Serif-Character-Style_Bold-Italic-Serif {
+  font-weight: bold;
+}
+
+.ddb-adventure .Basic-Text-Frame {
+  clear: both;
+  position: relative;
+  box-shadow: 0 0 5px #979aa4;
+  border: 1px solid #d4d0ce;
+  background: #ffffff66;
+  padding: 10px;
+  margin: 10px 0 10px 0;
+}
+
+.ddb-adventure .Stat-Block-Styles_Stat-Block-Title {
+  font-size: 18px !important;
+  font-family: "Roboto Condensed", Roboto, Helvetica, sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  line-height: 1.4 !important;
+  margin-bottom: 0 !important;
+  margin-top: 0 !important;
+}
+
+.ddb-adventure .Stat-Block-Styles_Stat-Block-Metadata {
+  font-style: italic;
+  font-size: 14px !important;
+  line-height: 1.4 !important;
+  margin-bottom: 8px !important;
+}
+
+.ddb-adventure .Stat-Block-Styles_Stat-Block-Data,
+.ddb-adventure .Stat-Block-Styles_Stat-Block-Data-Last,
+.ddb-adventure .Stat-Block-Styles_Stat-Block-Body,
+.ddb-adventure .Stat-Block-Styles_Stat-Block-Hanging,
+.ddb-adventure .Stat-Block-Styles_Stat-Block-Hanging-Last,
+.ddb-adventure .Stat-Block-Styles_Stat-Block-Body-Last--apply-before-heading- {
+  font-size: 14px !important;
+  line-height: 1.4 !important;
+  margin-bottom: 10px !important;
+}
+
+.ddb-adventure .stat-block-ability-scores {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  border-top: 2px solid #bc0f0f;
+  border-bottom: 2px solid #bc0f0f;
+  margin: 10px 0;
+}
+
+.ddb-adventure .stat-block-ability-scores-stat {
+  width: 33.33333%;
+  padding: 10px 5px;
+  text-align: center;
+}
+
+.ddb-adventure .stat-block-ability-scores-stat {
+  width: 16.66667%;
+}
+
+.ddb-adventure .stat-block-ability-scores-heading {
+  font-weight: bold;
+}
+
+.ddb-adventure .stat-block-ability-scores-modifier {
+  margin-left: 5px;
+}
+
+.ddb-adventure .Stat-Block-Styles_Stat-Block-Heading,
+.ddb-adventure .Stat-Block-Styles_Stat-Block-Heading--after-last-bar- {
+  font-size: 16px !important;
+  font-weight: bold;
+  font-family: "Roboto Condensed", Roboto, Helvetica, sans-serif;
+}
+
+
+ /* for stat blocks appearing in spells details */
+.Basic-Text-Frame {
+  column-count: 1;
+
+  .stat-block-ability-scores-modifier {
+    display: block;
+  }
+
+  &::before {
+    left: -3px;
+    top: -3px;
+    right: -3px;
+  }
+
+  &::after {
+    left: -3px;
+    bottom: -3px;
+    right: -3px;
+  }
+
+  &::before,
+  &::after {
+    content: "";
+    background-image: url("https://www.dndbeyond.com/content/skins/waterdeep/images/MMStatBar_lrg.jpg");
+    background-size: 100% 100%;
+    background-position: center;
+    height: 4px;
+    display: inline-block;
+    position: absolute;
+  }
+
+  .Stat-Block-Styles_Stat-Block-Title {
+    font-size: 18px;
+    font-family: "Roboto Condensed", Roboto, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 1.4;
+    margin-bottom: 0;
+    display: inline;
+    margin-right: 5px;
+  }
+
+  .Stat-Block-Styles_Stat-Block-Metadata {
+    font-style: italic;
+    font-size: 14px;
+    line-height: 1.4;
+    margin-bottom: 8px;
+    &::after {
+      content: "";
+      display: block;
+      border-bottom: 2px solid #bc0f0f;
+      padding-top: 5px;
+    }
+  }
+
+  .Stat-Block-Styles_Stat-Block-Heading,
+  .Stat-Block-Styles_Stat-Block-Heading--after-last-bar- {
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "Roboto Condensed", Roboto, Helvetica, sans-serif;
+    &::after {
+      content: "";
+      display: block;
+      border-bottom: 1px solid #bc0f0f;
+      padding-top: 2px;
+    }
+  }
+
+  .Stat-Block-Styles_Stat-Block-Data,
+  .Stat-Block-Styles_Stat-Block-Data-Last,
+  .Stat-Block-Styles_Stat-Block-Body,
+  .Stat-Block-Styles_Stat-Block-Hanging,
+  .Stat-Block-Styles_Stat-Block-Hanging-Last,
+  .Stat-Block-Styles_Stat-Block-Body-Last--apply-before-heading- {
+    font-size: 14px;
+    line-height: 1.4;
+  }
+
+  .Stat-Block-Styles_Stat-Block-Data-Last {
+    border-bottom: 2px solid #bc0f0f;
+    padding-bottom: 10px;
+  }
+
+  .stat-block-ability-scores {
+    display: flex;
+    flex-wrap: wrap;
+    border-top: 2px solid #bc0f0f;
+    border-bottom: 2px solid #bc0f0f;
+    margin: 10px 0;
+  }
+
+  .stat-block-ability-scores-stat {
+    width: 33.33333%;
+    padding: 10px 5px;
+    text-align: center;
+  }
+
+  .stat-block-ability-scores-heading {
+    font-weight: bold;
+  }
+
+  @media (min-width: 768px) {
+    .stat-block-ability-scores-stat {
+      width: 16.66667%;
+    }
+  }
+}
+
+.monster--stat-block {
+  border: 1px solid #d4d0ce;
+  background-color: var(--sb-stat-block-bg-override, #fefcef);
+  padding: 15px;
+  position: relative;
+  background-repeat: no-repeat;
+  box-shadow: 0 5px 5px 0 #aaa;
+  font-size: 14px;
+  line-height: 19.6px;
+  margin: 10px 4px;
+
+  &::before,
+  &::after {
+    content: "";
+    background-image: var(--sb-stat-block-scrollbar, url(https://media.dndbeyond.com/compendium-images/cm/c43LH2y2Gcaxb3V2/MMStatBar_lrg.png));
+    background-size: 100% 100%;
+    background-position: center;
+    height: 4px;
+    display: inline-block;
+    position: absolute;
+  }
+  &::before {
+    left: -3px;
+    top: -3px;
+    right: -3px;
+  }
+  &::after {
+    left: -3px;
+    bottom: -3px;
+    right: -3px;
+  }
+
+  & br {
+    display: none;
+  }
+
+  p {
+    break-inside: avoid;
+    font-size: 14px;
+    line-height: 1.4;
+    margin-bottom: 10px;
+  }
+
+  h2,
+  h3,
+  h4,
+  h5 {
+    display: inline;
+    font-size: 20px;
+    font-family: "Roboto Condensed", Roboto, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 0;
+    margin-right: 8px;
+  }
+
+  p:first-of-type:not(.monster--stats p:first-of-type) {
+    font-style: italic;
+    border-bottom: 2px solid var(--sb-stat-block-divider, #bc0f0f);
+    padding: 5px 0;
+  }
+
+  p:nth-child(odd) {
+    margin-top: 12px;
+  }
+
+  .monster--stats {
+    display: grid;
+    grid-auto-flow: column;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    grid-template-areas:
+      "STR-a DEX-a CON-a"
+      "STR-b DEX-b CON-b"
+      "INT-a WIS-a CHA-a"
+      "INT-b WIS-b CHA-b";
+    border-top: 2px solid var(--sb-stat-block-divider, #bc0f0f);
+    border-bottom: 2px solid var(--sb-stat-block-divider, #bc0f0f);
+    text-align: center;
+    align-items: center;
+    margin: 12px 6px 12px 0;
+    padding: 0 12px 8px 0;
+
+    p {
+      font-size: 15px;
+      margin: 3px 0 5px;
+
+      &:nth-child(odd) {
+        margin-top: 12px;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-bottom: 5px;
+      }
+      &:nth-of-type(1) {
+        grid-area: STR-a;
+      }
+      &:nth-of-type(3) {
+        grid-area: DEX-a;
+      }
+      &:nth-of-type(5) {
+        grid-area: CON-a;
+      }
+      &:nth-of-type(7) {
+        grid-area: INT-a;
+      }
+      &:nth-of-type(9) {
+        grid-area: WIS-a;
+      }
+      &:nth-of-type(11) {
+        grid-area: CHA-a;
+      }
+      &:nth-of-type(2) {
+        grid-area: STR-b;
+      }
+      &:nth-of-type(4) {
+        grid-area: DEX-b;
+      }
+      &:nth-of-type(6) {
+        grid-area: CON-b;
+      }
+      &:nth-of-type(8) {
+        grid-area: INT-b;
+      }
+      &:nth-of-type(10) {
+        grid-area: WIS-b;
+      }
+      &:nth-of-type(12) {
+        grid-area: CHA-b;
+      }
+    }
+  }
+
+  .monster--stats p:nth-child(odd) {
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 5px !important;
+  }
+
+  .monster--data-last::after {
+    content: "";
+    display: block;
+    border-bottom: 2px solid var(--sb-stat-block-divider, #bc0f0f);
+    padding: 0 0 8px;
+  }
+  .monster--action-header {
+    font-size: 16px;
+    font-weight: 700;
+    font-family: "Roboto Condensed", Roboto, Helvetica, sans-serif;
+    padding-top: 4px;
+    border-bottom: 1px solid var(--sb-stat-block-divider, #bc0f0f);
+  }
+  .monster--data-last strong + strong {
+    margin-left: 12px;
+  }
+}

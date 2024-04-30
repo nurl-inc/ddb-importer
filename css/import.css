@@ -1,0 +1,85 @@
+.ddbimporter .window-app .window-content {
+  background: url(../../../systems/dnd5e/ui/parchment.jpg) repeat !important;
+}
+
+div.ddbCharacterName {
+  display: inline-flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.ddbimporter-hidden {
+  visibility: hidden;
+}
+
+.ddbimporter-none {
+  display: none;
+}
+
+.ddbimporter div.form-section {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.ddbimporter div.form-caption {
+  flex: 0 1 15%;
+  font-family: "Roboto Condensed";
+}
+.ddbimporter div.form-content {
+  flex: 0 1 85%;
+}
+.ddbimporter div.form-description {
+  flex: 0 1 100%;
+  font-size: 0.9rem;
+}
+
+.ddbimporter .inline-image {
+  height: 16pt;
+  border: none;
+  position: relative;
+  top: 5px;
+}
+
+.ddbimporter .import-policy-group {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.ddbimporter .import-policy {
+  display: flex;
+  align-items: center;
+}
+
+.ddbimporter .import-config {
+  display: flex;
+  align-items: center;
+}
+
+.fa-d-and-d-beyond {
+  color: rgb(228, 7, 18);
+  font-size: 2rem;
+}
+
+.fa-d-and-d-beyond.white {
+  color: rgb(255, 255, 255);
+  font-size: 2rem;
+}
+
+#ddbImporterButton {
+  width: 52px;
+  height: 32px;
+
+  max-width: 52px;
+  max-height: 32px;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: rgb(0, 0, 0);
+  border: none;
+  font-size: 2rem;
+}
+

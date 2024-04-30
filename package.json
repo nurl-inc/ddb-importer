@@ -1,0 +1,23 @@
+{
+  "name": "@nurl/ddb-importer",
+  "version": "5.1.19",
+  "author": "Casey Baggz",
+  "description": "Nurl module for integrating D&D Beyond character sheets.",
+  "private": false,
+  "scripts": {
+    "lint": "npx eslint src/",
+    "lint-fix": "npx eslint src/ --fix",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "node-fetch": "^3.2.10",
+    "eslint": "^8.34.0",
+    "eslint-config-prettier": "^8.3.0",
+    "prettier": "2.3.2",
+    "terser": "^5.10.0",
+    "terser-webpack-plugin": "^5.3.0",
+    "webpack": "^5.49.0",
+    "webpack-cli": "^4.7.2"
+  }
+}

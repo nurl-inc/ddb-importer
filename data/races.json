@@ -1,0 +1,1814 @@
+[
+  {
+    "name": "Acid Resistance",
+    "racial_trait": "Acid Resistance",
+    "race": "Genasi",
+    "subrace": "Water Genasi",
+    "path": "icons/commodities/materials/liquid-green.webp"
+  },
+  {
+    "name": "Aereni Elf",
+    "racial_trait": "Aereni Elf",
+    "race": "Elf",
+    "subrace": "",
+    "path": "icons/commodities/gems/gem-faceted-diamond-green.webp"
+  },
+  {
+    "name": "Aggressive",
+    "racial_trait": "Aggressive",
+    "race": "Orc",
+    "subrace": "",
+    "path": "icons/equipment/finger/ring-bone-teeth.webp"
+  },
+  {
+    "name": "Amphibious",
+    "racial_trait": "Amphibious",
+    "race": "",
+    "subrace": "",
+    "path": "icons/magic/acid/dissolve-arm-flesh.webp"
+  },
+  {
+    "name": "Amphibious",
+    "racial_trait": "Amphibious",
+    "race": "Genasi",
+    "subrace": "Water Genasi",
+    "path": "icons/magic/acid/dissolve-arm-flesh.webp"
+  },
+  {
+    "name": "Ancestral Legacy",
+    "racial_trait": "Ancestral Legacy",
+    "race": "",
+    "subrace": "",
+    "path": "icons/skills/social/intimidation-impressing.webp"
+  },
+  {
+    "name": "Animal Enhancement",
+    "racial_trait": "Animal Enhancement",
+    "race": "Simic Hybrid",
+    "subrace": "Simic Hybrid",
+    "path": "icons/commodities/biological/tail-scaled-green.webp"
+  },
+  {
+    "name": "Arboreal Alertness",
+    "racial_trait": "Arboreal Alertness",
+    "race": "Grung",
+    "subrace": "Grung",
+    "path": "icons/commodities/biological/eye-tentacle-green-orange.webp"
+  },
+  {
+    "name": "Artificer's Lore",
+    "racial_trait": "Artificer's Lore",
+    "race": "Gnome",
+    "subrace": "Rock Gnome",
+    "path": "icons/sundries/books/book-embossed-clasp-gold-brown.webp"
+  },
+  {
+    "name": "Artisan's Intuition",
+    "racial_trait": "Artisan's Intuition",
+    "race": "Human",
+    "subrace": "Mark of Making Human",
+    "path": "icons/tools/hand/hammer-and-nail.webp"
+  },
+  {
+    "name": "Beak and Claws",
+    "racial_trait": "Beak and Claws",
+    "race": "Huutgr",
+    "subrace": "Huutgr",
+    "path": "icons/commodities/bones/beak-hooked-red.webp"
+  },
+  {
+    "name": "Bite",
+    "racial_trait": "Bite",
+    "race": "Lizardfolk",
+    "subrace": "Lizardfolk",
+    "path": "icons/commodities/biological/mouth-toothed-purple.webp"
+  },
+  {
+    "name": "Black Blood Healing",
+    "racial_trait": "Black Blood Healing",
+    "race": "Verdan",
+    "subrace": "Verdan",
+    "path": "icons/magic/water/orb-water-bubbles.webp"
+  },
+  {
+    "name": "Blessing of the Moon Weaver",
+    "racial_trait": "Blessing of the Moon Weaver",
+    "race": "Elf",
+    "subrace": "Pallid Elf",
+    "path": "icons/equipment/neck/necklace-astrology-moon-blue.webp"
+  },
+  {
+    "name": "Blessing of the Raven Queen",
+    "racial_trait": "Blessing of the Raven Queen",
+    "race": "Shadar-kai",
+    "subrace": "Shadar-kai",
+    "path": "icons/creatures/birds/corvid-flying-wings-purple.webp"
+  },
+  {
+    "name": "Brave",
+    "racial_trait": "Brave",
+    "race": "Halfling",
+    "subrace": "",
+    "path": "icons/commodities/treasure/broach-shield-grey.webp"
+  },
+  {
+    "name": "Breath Weapon",
+    "racial_trait": "Breath Weapon",
+    "race": "Dragonborn",
+    "subrace": "Dragonborn",
+    "path": "icons/creatures/abilities/dragon-fire-breath-orange.webp"
+  },
+  {
+    "name": "Breath Weapon",
+    "racial_trait": "Breath Weapon",
+    "race": "Dragonborn",
+    "subrace": "Draconblood Dragonborn",
+    "path": "icons/magic/acid/projectile-smoke-glowing.webp"
+  },
+  {
+    "name": "Breath Weapon",
+    "racial_trait": "Breath Weapon",
+    "race": "Dragonborn",
+    "subrace": "Ravenite Dragonborn",
+    "path": "icons/creatures/abilities/dragon-ice-breath-blue.webp"
+  },
+  {
+    "name": "Breath Weapon (Acid)",
+    "racial_trait": "Metallic Breath Weapon",
+    "race": "Dragonborn",
+    "subrace": "Metallic Dragonborn",
+    "path": "icons/magic/acid/projectile-smoke-glowing.webp"
+  },
+  {
+    "name": "Call to the Wave",
+    "racial_trait": "Call to the Wave",
+    "race": "Genasi",
+    "subrace": "Water Genasi",
+    "path": "icons/magic/water/wave-water-blue.webp"
+  },
+  {
+    "name": "Cantrip",
+    "racial_trait": "Cantrip",
+    "race": "",
+    "subrace": "",
+    "path": "icons/sundries/documents/document-symbol-eye.webp"
+  },
+  {
+    "name": "Cantrip",
+    "racial_trait": "Cantrip",
+    "race": "Elf",
+    "subrace": "Aereni High Elf",
+    "path": "icons/sundries/documents/document-symbol-eye.webp"
+  },
+  {
+    "name": "Cat's Claws",
+    "racial_trait": "Cat's Claws",
+    "race": "Tabaxi",
+    "subrace": "Tabaxi",
+    "path": "icons/weapons/fist/claw-hooked-grey.webp"
+  },
+  {
+    "name": "Cat's Talent",
+    "racial_trait": "Cat's Talent",
+    "race": "Tabaxi",
+    "subrace": "Tabaxi",
+    "path": "icons/commodities/treasure/broach-gold-eye-green.webp"
+  },
+  {
+    "name": "Celestial Legacy",
+    "racial_trait": "Celestial Legacy",
+    "race": "Aasimar",
+    "subrace": "Variant Aasimar",
+    "path": "icons/commodities/bones/hurn-curved-yellow.webp"
+  },
+  {
+    "name": "Celestial Resistance",
+    "racial_trait": "Celestial Resistance",
+    "race": "Aasimar",
+    "subrace": "",
+    "path": "icons/magic/water/projectile-ice-chunk-blue.webp"
+  },
+  {
+    "name": "Changeling Instincts",
+    "racial_trait": "Changeling Instincts",
+    "race": "Changeling",
+    "subrace": "Changeling",
+    "path": "icons/magic/air/wind-vortex-swirl-purple.webp"
+  },
+  {
+    "name": "Charge",
+    "racial_trait": "Charge",
+    "race": "Centaur",
+    "subrace": "Centaur",
+    "path": "icons/magic/light/beam-red-orange.webp"
+  },
+  {
+    "name": "Child of the Sea",
+    "racial_trait": "Child of the Sea",
+    "race": "Elf",
+    "subrace": "Sea Elf",
+    "path": "icons/commodities/materials/liquid-blue.webp"
+  },
+  {
+    "name": "Child of the Wood",
+    "racial_trait": "Child of the Wood",
+    "race": "Halfling",
+    "subrace": "Lotusden Halfling",
+    "path": "icons/creatures/tentacles/tentacles-thing-green.webp"
+  },
+  {
+    "name": "Chromatic Ancestry",
+    "racial_trait": "Chromatic Ancestry",
+    "race": "Dragonborn",
+    "subrace": "Chromatic Dragonborn",
+    "path": "icons/creatures/reptiles/dragon-horned-blue.webp"
+  },
+  {
+    "name": "Claws",
+    "racial_trait": "Claws",
+    "race": "",
+    "subrace": "",
+    "path": "icons/commodities/claws/claws-white.webp"
+  },
+  {
+    "name": "Constructed Resilience",
+    "racial_trait": "Constructed Resilience",
+    "race": "Warforged",
+    "subrace": "Warforged",
+    "path": "icons/environment/creatures/golem-stone-purple.webp"
+  },
+  {
+    "name": "Control Air and Water",
+    "racial_trait": "Control Air and Water",
+    "race": "Triton",
+    "subrace": "Triton",
+    "path": "icons/commodities/materials/slime-thick-blue.webp"
+  },
+  {
+    "name": "Courier's Speed",
+    "racial_trait": "Courier's Speed",
+    "race": "Human",
+    "subrace": "Mark of Passage Human",
+    "path": "icons/skills/movement/feet-winged-boots-brown.webp"
+  },
+  {
+    "name": "Creature Type",
+    "racial_trait": "Creature Type",
+    "race": "",
+    "subrace": "",
+    "path": "icons/environment/creatures/gargoyle-grey-blue.webp"
+  },
+  {
+    "name": "Cunning Artisan",
+    "racial_trait": "Cunning Artisan",
+    "race": "Lizardfolk",
+    "subrace": "Lizardfolk",
+    "path": "icons/weapons/clubs/club-barbed-square-black.webp"
+  },
+  {
+    "name": "Cunning Intuition",
+    "racial_trait": "Cunning Intuition",
+    "race": "Elf",
+    "subrace": "Mark of Shadow Elf",
+    "path": "icons/equipment/back/cloak-plain-green.webp"
+  },
+  {
+    "name": "Damage Resistance",
+    "racial_trait": "Damage Resistance",
+    "race": "Dragonborn",
+    "subrace": "Dragonborn",
+    "path": "icons/commodities/biological/shell-ridged-blue.webp"
+  },
+  {
+    "name": "Darkvision",
+    "racial_trait": "Darkvision",
+    "race": "",
+    "subrace": "",
+    "path": "icons/magic/perception/eye-ringed-glow-angry-small-red.webp"
+  },
+  {
+    "name": "Daunting Roar",
+    "racial_trait": "Daunting Roar",
+    "race": "Leonin",
+    "subrace": "Leonin",
+    "path": "icons/creatures/abilities/mouth-teeth-fire-orange.webp"
+  },
+  {
+    "name": "Deathless Nature",
+    "racial_trait": "Deathless Nature",
+    "race": "Reborn",
+    "subrace": "Reborn",
+    "path": "icons/skills/wounds/illness-disease-glowing-green.webp"
+  },
+  {
+    "name": "Decadent Mastery",
+    "racial_trait": "Decadent Mastery",
+    "race": "Gith",
+    "subrace": "Githyanki",
+    "path": "icons/equipment/neck/amulet-carved-stone-purple.webp"
+  },
+  {
+    "name": "Deductive Intuition",
+    "racial_trait": "Deductive Intuition",
+    "race": "Half-Elf",
+    "subrace": "Mark of Detection Half-Elf",
+    "path": "icons/magic/symbols/runes-triangle-blue.webp"
+  },
+  {
+    "name": "Draconic Ancestry",
+    "racial_trait": "Draconic Ancestry",
+    "race": "Dragonborn",
+    "subrace": "",
+    "path": "icons/commodities/biological/wing-lizard-purple.webp"
+  },
+  {
+    "name": "Draconic Resistance",
+    "racial_trait": "Draconic Resistance",
+    "race": "Dragonborn",
+    "subrace": "",
+    "path": "icons/environment/wilderness/statue-hound-horned.webp"
+  },
+  {
+    "name": "Drow Magic",
+    "racial_trait": "Drow Magic",
+    "race": "Elf",
+    "subrace": "",
+    "path": "icons/sundries/books/book-embossed-jewel-silver-green.webp"
+  },
+  {
+    "name": "Drow Weapon Training",
+    "racial_trait": "Drow Weapon Training",
+    "race": "Elf",
+    "subrace": "Dark Elf (Drow)",
+    "path": "icons/weapons/swords/shortsword-guard-green.webp"
+  },
+  {
+    "name": "Dual Mind",
+    "racial_trait": "Dual Mind",
+    "race": "Kalashtar",
+    "subrace": "Kalashtar",
+    "path": "icons/magic/symbols/runes-star-blue.webp"
+  },
+  {
+    "name": "Duergar Magic",
+    "racial_trait": "Duergar Magic",
+    "race": "Dwarf",
+    "subrace": "Gray Dwarf (Duergar)",
+    "path": "icons/sundries/scrolls/scroll-bound-skull-blue.webp"
+  },
+  {
+    "name": "Duergar Resilience",
+    "racial_trait": "Duergar Resilience",
+    "race": "Dwarf",
+    "subrace": "Gray Dwarf (Duergar)",
+    "path": "icons/commodities/treasure/statue-bust-stone-grey.webp"
+  },
+  {
+    "name": "Dwarven Armor Training",
+    "racial_trait": "Dwarven Armor Training",
+    "race": "Dwarf",
+    "subrace": "Mountain Dwarf",
+    "path": "icons/equipment/shoulder/pauldron-segmented-steel-white.webp"
+  },
+  {
+    "name": "Dwarven Combat Training",
+    "racial_trait": "Dwarven Combat Training",
+    "race": "Dwarf",
+    "subrace": "Hill Dwarf",
+    "path": "icons/sundries/documents/blueprint-axe.webp"
+  },
+  {
+    "name": "Dwarven Resilience",
+    "racial_trait": "Dwarven Resilience",
+    "race": "Dwarf",
+    "subrace": "",
+    "path": "icons/commodities/treasure/statue-carved-figurehead.webp"
+  },
+  {
+    "name": "Dwarven Toughness",
+    "racial_trait": "Dwarven Toughness",
+    "race": "Dwarf",
+    "subrace": "Hill Dwarf",
+    "path": "icons/commodities/treasure/statue-carved-figurehead.webp"
+  },
+  {
+    "name": "Earth Walk",
+    "racial_trait": "Earth Walk",
+    "race": "Genasi",
+    "subrace": "Earth Genasi",
+    "path": "icons/environment/wilderness/cave-entrance.webp"
+  },
+  {
+    "name": "Eerie Token",
+    "racial_trait": "Eerie Token",
+    "race": "Hexblood",
+    "subrace": "",
+    "path": "icons/creatures/eyes/slime-single-red.webp"
+  },
+  {
+    "name": "Elf Weapon Training",
+    "racial_trait": "Elf Weapon Training",
+    "race": "Elf",
+    "subrace": "",
+    "path": "icons/weapons/bows/bow-ornamental-gold-blue.webp"
+  },
+  {
+    "name": "Emissary of the Sea",
+    "racial_trait": "Emissary of the Sea",
+    "race": "Triton",
+    "subrace": "Triton",
+    "path": "icons/equipment/neck/pendant-silver-anchor.webp"
+  },
+  {
+    "name": "Equine Build",
+    "racial_trait": "Equine Build",
+    "race": "Centaur",
+    "subrace": "Centaur",
+    "path": "icons/tools/smithing/horseshoe-steel-blue.webp"
+  },
+  {
+    "name": "Ever Hospitable",
+    "racial_trait": "Ever Hospitable",
+    "race": "Halfling",
+    "subrace": "Mark of Hospitality Halfling",
+    "path": "icons/tools/cooking/fork-steel-brown.webp"
+  },
+  {
+    "name": "Expert Forgery",
+    "racial_trait": "Expert Forgery",
+    "race": "Kenku",
+    "subrace": "Kenku",
+    "path": "icons/tools/scribal/pen-steel-grey-brown.webp"
+  },
+  {
+    "name": "Extra Language",
+    "racial_trait": "Extra Language",
+    "race": "Elf",
+    "subrace": "",
+    "path": "icons/sundries/books/book-open-brown.webp"
+  },
+  {
+    "name": "Fairy Magic",
+    "racial_trait": "Fairy Magic",
+    "race": "Fairy",
+    "subrace": "",
+    "path": "icons/creatures/magical/fae-fairy-winged-glowing-green.webp"
+  },
+  {
+    "name": "Feline Agility",
+    "racial_trait": "Feline Agility",
+    "race": "Tabaxi",
+    "subrace": "Tabaxi",
+    "path": "icons/commodities/claws/claw-blue-grey.webp"
+  },
+  {
+    "name": "Fey",
+    "racial_trait": "Fey",
+    "race": "",
+    "subrace": "",
+    "path": "icons/magic/nature/vines-thorned-entwined-glow-teal-purple.webp"
+  },
+  {
+    "name": "Fey Ancestry",
+    "racial_trait": "Fey Ancestry",
+    "race": "",
+    "subrace": "",
+    "path": "icons/magic/nature/vines-thorned-curled-glow-teal.webp"
+  },
+  {
+    "name": "Fey Resilience",
+    "racial_trait": "Fey Resilience",
+    "race": "",
+    "subrace": "",
+    "path": "icons/magic/control/debuff-chains-ropes-green.webp"
+  },
+  {
+    "name": "Fey Step",
+    "racial_trait": "Fey Step",
+    "race": "",
+    "subrace": "",
+    "path": "icons/magic/control/debuff-energy-snare-green.webp"
+  },
+  {
+    "name": "Finder's Magic",
+    "racial_trait": "Finder's Magic",
+    "race": "",
+    "subrace": "Mark of Finding",
+    "path": "icons/weapons/bows/shortbow-recurve-yellow.webp"
+  },
+  {
+    "name": "Firbolg Magic",
+    "racial_trait": "Firbolg Magic",
+    "race": "Firbolg",
+    "subrace": "Firbolg",
+    "path": "icons/magic/nature/leaf-glow-triple-teal.webp"
+  },
+  {
+    "name": "Fire Resistance",
+    "racial_trait": "Fire Resistance",
+    "race": "Genasi",
+    "subrace": "Fire Genasi",
+    "path": "icons/magic/control/buff-flight-wings-runes-red.webp"
+  },
+  {
+    "name": "Fleet of Foot",
+    "racial_trait": "Fleet of Foot",
+    "race": "Elf",
+    "subrace": "",
+    "path": "icons/equipment/feet/shoes-simple-leaf-green.webp"
+  },
+  {
+    "name": "Flight",
+    "racial_trait": "Flight",
+    "race": "",
+    "subrace": "",
+    "path": "icons/commodities/biological/wing-bird-white.webp"
+  },
+  {
+    "name": "Forceful Presence",
+    "racial_trait": "Forceful Presence",
+    "race": "Dragonborn",
+    "subrace": "Draconblood Dragonborn",
+    "path": "icons/magic/control/debuff-chains-shackles-movement-blue.webp"
+  },
+  {
+    "name": "Friend of the Sea",
+    "racial_trait": "Friend of the Sea",
+    "race": "Elf",
+    "subrace": "Sea Elf",
+    "path": "icons/equipment/neck/pendant-gold-anchor.webp"
+  },
+  {
+    "name": "Fury of the Small",
+    "racial_trait": "Fury of the Small",
+    "race": "Goblin",
+    "subrace": "Goblin",
+    "path": "icons/commodities/bones/skull-bat-grey.webp"
+  },
+  {
+    "name": "Gifted Scribe",
+    "racial_trait": "Gifted Scribe",
+    "race": "Gnome",
+    "subrace": "Mark of Scribing Gnome",
+    "path": "icons/tools/scribal/ink-quill-pink.webp"
+  },
+  {
+    "name": "Githyanki Psionics",
+    "racial_trait": "Githyanki Psionics",
+    "race": "Gith",
+    "subrace": "Githyanki",
+    "path": "icons/magic/fire/projectile-meteor-salvo-light-red.webp"
+  },
+  {
+    "name": "Githzerai Psionics",
+    "racial_trait": "Githzerai Psionics",
+    "race": "Gith",
+    "subrace": "Githzerai",
+    "path": "icons/magic/fire/projectile-meteor-salvo-light-teal.webp"
+  },
+  {
+    "name": "Gnome Cunning",
+    "racial_trait": "Gnome Cunning",
+    "race": "Gnome",
+    "subrace": "",
+    "path": "icons/commodities/gems/gem-rough-spiral-teal.webp"
+  },
+  {
+    "name": "Goring Rush",
+    "racial_trait": "Goring Rush",
+    "race": "Minotaur",
+    "subrace": "Minotaur",
+    "path": "icons/creatures/mammals/ox-bull-horned-glowing-orange.webp"
+  },
+  {
+    "name": "Grovel, Cower, and Beg",
+    "racial_trait": "Grovel, Cower, and Beg",
+    "race": "Kobold",
+    "subrace": "Kobold",
+    "path": "icons/creatures/eyes/slime-stalk-green.webp"
+  },
+  {
+    "name": "Guardian's Shield",
+    "racial_trait": "Guardian's Shield",
+    "race": "Human",
+    "subrace": "Mark of Sentinel Human",
+    "path": "icons/equipment/shield/kite-wooden-oak-glow.webp"
+  },
+  {
+    "name": "Guardians of the Depths",
+    "racial_trait": "Guardians of the Depths",
+    "race": "Triton",
+    "subrace": "Triton",
+    "path": "icons/magic/water/water-iceberg-bubbles.webp"
+  },
+  {
+    "name": "Half-Elf Variant",
+    "racial_trait": "Half-Elf Variant",
+    "race": "Half-Elf",
+    "subrace": "",
+    "path": "icons/weapons/bows/shortbow-leaves-green.webp"
+  },
+  {
+    "name": "Halfling Nimbleness",
+    "racial_trait": "Halfling Nimbleness",
+    "race": "Halfling",
+    "subrace": "",
+    "path": "icons/equipment/feet/shoes-collared-leather-blue.webp"
+  },
+  {
+    "name": "Hammering Horns",
+    "racial_trait": "Hammering Horns",
+    "race": "Minotaur",
+    "subrace": "Minotaur",
+    "path": "icons/magic/fire/projectile-embers-orange.webp"
+  },
+  {
+    "name": "Hare-Trigger",
+    "racial_trait": "Hare-Trigger",
+    "race": "Harengon",
+    "subrace": "",
+    "path": "icons/skills/movement/arrow-upward-yellow.webp"
+  },
+  {
+    "name": "Headwinds",
+    "racial_trait": "Headwinds",
+    "race": "Half-Elf",
+    "subrace": "Mark of Storm Half-Elf",
+    "path": "icons/magic/air/wind-swirl-purple-blue.webp"
+  },
+  {
+    "name": "Healing Hands",
+    "racial_trait": "Healing Hands",
+    "race": "Aasimar",
+    "subrace": "",
+    "path": "icons/magic/water/water-hand.webp"
+  },
+  {
+    "name": "Healing Touch",
+    "racial_trait": "Healing Touch",
+    "race": "Halfling",
+    "subrace": "Mark of Healing Halfling",
+    "path": "icons/magic/water/water-hand.webp"
+  },
+  {
+    "name": "Hellish Resistance",
+    "racial_trait": "Hellish Resistance",
+    "race": "Tiefling",
+    "subrace": "",
+    "path": "icons/magic/control/debuff-chains-shackle-movement-red.webp"
+  },
+  {
+    "name": "Hex Magic",
+    "racial_trait": "Hex Magic",
+    "race": "Hexblood",
+    "subrace": "Hexblood",
+    "path": "icons/magic/perception/silhouette-stealth-shadow.webp"
+  },
+  {
+    "name": "Hidden Step",
+    "racial_trait": "Hidden Step",
+    "race": "Firbolg",
+    "subrace": "Firbolg",
+    "path": "icons/magic/air/wind-stream-blue-gray.webp"
+  },
+  {
+    "name": "Hold Breath",
+    "racial_trait": "Hold Breath",
+    "race": "Lizardfolk",
+    "subrace": "Lizardfolk",
+    "path": "icons/commodities/biological/organ-stomach.webp"
+  },
+  {
+    "name": "Hold Breath",
+    "racial_trait": "Hold Breath",
+    "race": "Tortle",
+    "subrace": "Tortle",
+    "path": "icons/commodities/biological/organ-stomach.webp"
+  },
+  {
+    "name": "Hooves",
+    "racial_trait": "Hooves",
+    "race": "Centaur",
+    "subrace": "Centaur",
+    "path": "icons/commodities/bones/hooves-cloven-brown.webp"
+  },
+  {
+    "name": "Horns",
+    "racial_trait": "Horns",
+    "race": "Minotaur",
+    "subrace": "Minotaur",
+    "path": "icons/commodities/bones/horn-curved-worn-brown.webp"
+  },
+  {
+    "name": "Hungry Jaws",
+    "racial_trait": "Hungry Jaws",
+    "race": "Lizardfolk",
+    "subrace": "Lizardfolk",
+    "path": "icons/creatures/abilities/mouth-teeth-long-red.webp"
+  },
+  {
+    "name": "Hunter's Instincts",
+    "racial_trait": "Hunter's Instincts",
+    "race": "Leonin",
+    "subrace": "Leonin",
+    "path": "icons/equipment/neck/necklace-eye-orange.webp"
+  },
+  {
+    "name": "Hunter's Intuition",
+    "racial_trait": "Hunter's Intuition",
+    "race": "Human",
+    "subrace": "Mark of Finding Human",
+    "path": "icons/environment/traps/trap-jaw-steel.webp"
+  },
+  {
+    "name": "Hunter's Intuition",
+    "racial_trait": "Hunter's Intuition",
+    "race": "Half-Orc",
+    "subrace": "Mark of Finding Half-Orc",
+    "path": "icons/environment/traps/trap-jaw-steel.webp"
+  },
+  {
+    "name": "Hunter's Lore",
+    "racial_trait": "Hunter's Lore",
+    "race": "Lizardfolk",
+    "subrace": "Lizardfolk",
+    "path": "icons/equipment/neck/necklace-simple-leaves.webp"
+  },
+  {
+    "name": "Imposing Presence",
+    "racial_trait": "Imposing Presence",
+    "race": "Minotaur",
+    "subrace": "Minotaur",
+    "path": "icons/magic/control/fear-fright-monster-grin-red-orange.webp"
+  },
+  {
+    "name": "Incisive Sense",
+    "racial_trait": "Incisive Sense",
+    "race": "Elf",
+    "subrace": "Pallid Elf",
+    "path": "icons/equipment/back/cloak-hooded-green-gold.webp"
+  },
+  {
+    "name": "Infernal Legacy",
+    "racial_trait": "Infernal Legacy",
+    "race": "Feral Tiefling",
+    "subrace": "Feral Tiefling",
+    "path": "icons/sundries/scrolls/scroll-symbol-triangle-brown.webp"
+  },
+  {
+    "name": "Infernal Legacy",
+    "racial_trait": "Infernal Legacy",
+    "race": "Tiefling",
+    "subrace": "Tiefling",
+    "path": "icons/sundries/scrolls/scroll-symbol-triangle-brown.webp"
+  },
+  {
+    "name": "Innate Spellcasting",
+    "racial_trait": "Innate Spellcasting",
+    "race": "Yuan-ti Pureblood",
+    "subrace": "Yuan-ti Pureblood",
+    "path": "icons/magic/unholy/orb-smoking-green.webp"
+  },
+  {
+    "name": "Innkeeper's Magic",
+    "racial_trait": "Innkeeper's Magic",
+    "race": "Halfling",
+    "subrace": "Mark of Hospitality Halfling",
+    "path": "icons/tools/cooking/pot-camping-iron-black.webp"
+  },
+  {
+    "name": "Integrated Protection",
+    "racial_trait": "Integrated Protection",
+    "race": "Warforged",
+    "subrace": "Warforged",
+    "path": "icons/equipment/hand/gauntlet-armored-black.webp"
+  },
+  {
+    "name": "Intuitive Motion",
+    "racial_trait": "Intuitive Motion",
+    "race": "Human",
+    "subrace": "Mark of Passage Human",
+    "path": "icons/commodities/tech/wheel.webp"
+  },
+  {
+    "name": "Keen Senses",
+    "racial_trait": "Keen Senses",
+    "race": "Elf",
+    "subrace": "High Elf",
+    "path": "icons/commodities/biological/eye-blue.webp"
+  },
+  {
+    "name": "Keen Senses",
+    "racial_trait": "Keen Senses",
+    "race": "Elf",
+    "subrace": "Wood Elf",
+    "path": "icons/commodities/biological/eye-blue.webp"
+  },
+  {
+    "name": "Keen Senses",
+    "racial_trait": "Keen Senses",
+    "race": "Elf",
+    "subrace": "Dark Elf (Drow)",
+    "path": "icons/commodities/biological/eye-blue.webp"
+  },
+  {
+    "name": "Keen Senses",
+    "racial_trait": "Keen Senses",
+    "race": "Elf",
+    "subrace": "Sea Elf",
+    "path": "icons/commodities/biological/eye-blue.webp"
+  },
+  {
+    "name": "Keen Senses",
+    "racial_trait": "Keen Senses",
+    "race": "Elf",
+    "subrace": "Eladrin",
+    "path": "icons/commodities/biological/eye-blue.webp"
+  },
+  {
+    "name": "Keen Senses",
+    "racial_trait": "Keen Senses",
+    "race": "Elf",
+    "subrace": "Aereni Wood Elf",
+    "path": "icons/commodities/biological/eye-blue.webp"
+  },
+  {
+    "name": "Keen Senses",
+    "racial_trait": "Keen Senses",
+    "race": "Elf",
+    "subrace": "Valenar Wood Elf",
+    "path": "icons/commodities/biological/eye-blue.webp"
+  },
+  {
+    "name": "Keen Senses",
+    "racial_trait": "Keen Senses",
+    "race": "Elf",
+    "subrace": "Pallid Elf",
+    "path": "icons/commodities/biological/eye-blue.webp"
+  },
+  {
+    "name": "Keen Senses",
+    "racial_trait": "Keen Senses",
+    "race": "Elf",
+    "subrace": "Valenar High Elf",
+    "path": "icons/commodities/biological/eye-blue.webp"
+  },
+  {
+    "name": "Keen Senses",
+    "racial_trait": "Keen Senses",
+    "race": "Elf",
+    "subrace": "Mark of Shadow Elf",
+    "path": "icons/commodities/biological/eye-blue.webp"
+  },
+  {
+    "name": "Keen Senses",
+    "racial_trait": "Keen Senses",
+    "race": "Elf",
+    "subrace": "Eladrin (Variant)",
+    "path": "icons/commodities/biological/eye-blue.webp"
+  },
+  {
+    "name": "Keen Senses",
+    "racial_trait": "Keen Senses",
+    "race": "Shadar-kai",
+    "subrace": "Shadar-kai",
+    "path": "icons/commodities/biological/eye-blue.webp"
+  },
+  {
+    "name": "Keen Senses",
+    "racial_trait": "Keen Senses",
+    "race": "Elf",
+    "subrace": "Aereni High Elf",
+    "path": "icons/commodities/biological/eye-blue.webp"
+  },
+  {
+    "name": "Keen Sight and Smell",
+    "racial_trait": "Keen Sight and Smell",
+    "race": "Huutgr",
+    "subrace": "Huutgr",
+    "path": "icons/commodities/biological/eye-blue.webp"
+  },
+  {
+    "name": "Keen Smell",
+    "racial_trait": "Keen Smell",
+    "race": "Loxodon",
+    "subrace": "Loxodon",
+    "path": "icons/commodities/flowers/lily-pink.webp"
+  },
+  {
+    "name": "Kenku Training",
+    "racial_trait": "Kenku Training",
+    "race": "Kenku",
+    "subrace": "Kenku",
+    "path": "icons/weapons/staves/staff-ornate-bird.webp"
+  },
+  {
+    "name": "Knowledge from a Past Life",
+    "racial_trait": "Knowledge from a Past Life",
+    "race": "Reborn",
+    "subrace": "Reborn",
+    "path": "icons/environment/settlement/graveyard-tombstone-night.webp"
+  },
+  {
+    "name": "Legacy of Avernus",
+    "racial_trait": "Legacy of Avernus",
+    "race": "Tiefling",
+    "subrace": "Zariel Tiefling",
+    "path": "icons/magic/fire/dagger-rune-enchant-flame-orange.webp"
+  },
+  {
+    "name": "Legacy of Cania",
+    "racial_trait": "Legacy of Cania",
+    "race": "Tiefling",
+    "subrace": "Mephistopheles Tiefling",
+    "path": "icons/magic/earth/volcano-explosion-lava-yellow.webp"
+  },
+  {
+    "name": "Legacy of Dis",
+    "racial_trait": "Legacy of Dis",
+    "race": "Tiefling",
+    "subrace": "Dispater Tiefling",
+    "path": "icons/creatures/magical/spirit-undead-masked-blue.webp"
+  },
+  {
+    "name": "Legacy of Maladomini",
+    "racial_trait": "Legacy of Maladomini",
+    "race": "Tiefling",
+    "subrace": "Baalzebul Tiefling",
+    "path": "icons/magic/light/beam-rays-green-small.webp"
+  },
+  {
+    "name": "Legacy of Malbolge",
+    "racial_trait": "Legacy of Malbolge",
+    "race": "Tiefling",
+    "subrace": "Glasya Tiefling",
+    "path": "icons/creatures/magical/spirit-undead-masked-blue.webp"
+  },
+  {
+    "name": "Legacy of Minauros",
+    "racial_trait": "Legacy of Minauros",
+    "race": "Tiefling",
+    "subrace": "Mammon Tiefling",
+    "path": "icons/commodities/materials/glass-orb-blue.webp"
+  },
+  {
+    "name": "Legacy of Phlegethos",
+    "racial_trait": "Legacy of Phlegethos",
+    "race": "Tiefling",
+    "subrace": "Fierna Tiefling",
+    "path": "icons/magic/control/debuff-energy-hold-levitate-pink.webp"
+  },
+  {
+    "name": "Legacy of Stygia",
+    "racial_trait": "Legacy of Stygia",
+    "race": "Tiefling",
+    "subrace": "Levistus Tiefling",
+    "path": "icons/magic/defensive/shield-barrier-flaming-diamond-blue.webp"
+  },
+  {
+    "name": "Leporine Senses",
+    "racial_trait": "Leporine Senses",
+    "race": "Harengon",
+    "subrace": "",
+    "path": "icons/commodities/biological/eye-red-pink.webp"
+  },
+  {
+    "name": "Leviathan Will",
+    "racial_trait": "Leviathan Will",
+    "race": "Locathah",
+    "subrace": "Locathah",
+    "path": "icons/commodities/biological/tentacle-purple-white.webp"
+  },
+  {
+    "name": "Light Bearer",
+    "racial_trait": "Light Bearer",
+    "race": "Aasimar",
+    "subrace": "",
+    "path": "icons/magic/light/explosion-star-small-blue-yellow.webp"
+  },
+  {
+    "name": "Limited Amphibiousness",
+    "racial_trait": "Limited Amphibiousness",
+    "race": "Locathah",
+    "subrace": "Locathah",
+    "path": "icons/magic/acid/dissolve-arm-flesh.webp"
+  },
+  {
+    "name": "Limited Telepathy",
+    "racial_trait": "Limited Telepathy",
+    "race": "Verdan",
+    "subrace": "Verdan",
+    "path": "icons/magic/air/wind-tornado-spiral-teal-green.webp"
+  },
+  {
+    "name": "Living Construct",
+    "racial_trait": "Living Construct",
+    "race": "Rogue Modron",
+    "subrace": "Rogue Modron",
+    "path": "icons/environment/creatures/golem-stone-purple.webp"
+  },
+  {
+    "name": "Long-Limbed",
+    "racial_trait": "Long-Limbed",
+    "race": "Bugbear",
+    "subrace": "Bugbear",
+    "path": "icons/skills/melee/strike-slashes-red.webp"
+  },
+  {
+    "name": "Loxodon Serenity",
+    "racial_trait": "Loxodon Serenity",
+    "race": "Loxodon",
+    "subrace": "Loxodon",
+    "path": "icons/commodities/gems/pearl-purple-smooth.webp"
+  },
+  {
+    "name": "Lucky",
+    "racial_trait": "Lucky",
+    "race": "Halfling",
+    "subrace": "",
+    "path": "icons/commodities/flowers/clover.webp"
+  },
+  {
+    "name": "Magic Resistance",
+    "racial_trait": "Magic Resistance",
+    "race": "",
+    "subrace": "",
+    "path": "icons/magic/defensive/shield-barrier-glowing-blue.webp"
+  },
+  {
+    "name": "Magic Token",
+    "racial_trait": "Magic Token",
+    "race": "Hexblood",
+    "subrace": "Hexblood",
+    "path": "icons/commodities/treasure/doll-mummy.webp"
+  },
+  {
+    "name": "Magical Detection",
+    "racial_trait": "Magical Detection",
+    "race": "Half-Elf",
+    "subrace": "Mark of Detection Half-Elf",
+    "path": "icons/magic/light/explosion-star-pink.webp"
+  },
+  {
+    "name": "Magical Passage",
+    "racial_trait": "Magical Passage",
+    "race": "Human",
+    "subrace": "Mark of Passage Human",
+    "path": "icons/magic/control/debuff-energy-snare-brown.webp"
+  },
+  {
+    "name": "Maker's Gift",
+    "racial_trait": "Maker's Gift",
+    "race": "Human",
+    "subrace": "Mark of Making Human",
+    "path": "icons/tools/smithing/tongs-steel-grey.webp"
+  },
+  {
+    "name": "Martial Prodigy",
+    "racial_trait": "Martial Prodigy",
+    "race": "Gith",
+    "subrace": "Githyanki",
+    "path": "icons/magic/fire/dagger-rune-enchant-flame-orange.webp"
+  },
+  {
+    "name": "Martial Training",
+    "racial_trait": "Martial Training",
+    "race": "Hobgoblin",
+    "subrace": "Hobgoblin",
+    "path": "icons/weapons/hammers/hammer-war-spiked.webp"
+  },
+  {
+    "name": "Mask of the Wild",
+    "racial_trait": "Mask of the Wild",
+    "race": "Elf",
+    "subrace": "Wood Elf",
+    "path": "icons/equipment/back/cloak-hooded-jewels-green.webp"
+  },
+  {
+    "name": "Medical Intuition",
+    "racial_trait": "Medical Intuition",
+    "race": "Halfling",
+    "subrace": "Mark of Healing Halfling",
+    "path": "icons/containers/bags/pouch-gold-green.webp"
+  },
+  {
+    "name": "Menacing",
+    "racial_trait": "Menacing",
+    "race": "Half-Orc",
+    "subrace": "Half-Orc",
+    "path": "icons/creatures/magical/construct-iron-stomping-yellow.webp"
+  },
+  {
+    "name": "Mental Discipline",
+    "racial_trait": "Mental Discipline",
+    "race": "",
+    "subrace": "",
+    "path": "icons/magic/defensive/shield-barrier-glowing-triangle-teal.webp"
+  },
+  {
+    "name": "Merge with Stone",
+    "racial_trait": "Merge with Stone",
+    "race": "Genasi",
+    "subrace": "Earth Genasi",
+    "path": "icons/commodities/stone/ore-chunk-black.webp"
+  },
+  {
+    "name": "Metallic Ancestry",
+    "racial_trait": "Metallic Ancestry",
+    "race": "Dragonborn",
+    "subrace": "Metallic Dragonborn",
+    "path": "icons/creatures/reptiles/dragon-winged-blue.webp"
+  },
+  {
+    "name": "Metallic Breath Weapon",
+    "racial_trait": "Metallic Breath Weapon",
+    "race": "Dragonborn",
+    "subrace": "Metallic Dragonborn",
+    "path": "icons/creatures/abilities/dragon-fire-breath-orange.webp"
+  },
+  {
+    "name": "Mimicry",
+    "racial_trait": "Mimicry",
+    "race": "Kenku",
+    "subrace": "Kenku",
+    "path": "icons/equipment/head/mask-carved-bird-grey-pink.webp"
+  },
+  {
+    "name": "Mind Link",
+    "racial_trait": "Mind Link",
+    "race": "Kalashtar",
+    "subrace": "Kalashtar",
+    "path": "icons/magic/control/energy-stream-link-teal.webp"
+  },
+  {
+    "name": "Mingle with the Wind",
+    "racial_trait": "Mingle with the Wind",
+    "race": "Genasi",
+    "subrace": "Air Genasi",
+    "path": "icons/magic/control/debuff-energy-hold-blue-yellow.webp"
+  },
+  {
+    "name": "Mirthful Leaps",
+    "racial_trait": "Mirthful Leaps",
+    "race": "Satyr",
+    "subrace": "Satyr",
+    "path": "icons/magic/fire/projectile-fireball-smoke-large-teal.webp"
+  },
+  {
+    "name": "Mountain Born",
+    "racial_trait": "Mountain Born",
+    "race": "Goliath",
+    "subrace": "Goliath",
+    "path": "icons/environment/wilderness/cave-entrance-mountain-blue.webp"
+  },
+  {
+    "name": "Natural Armor",
+    "racial_trait": "Natural Armor",
+    "race": "",
+    "subrace": "",
+    "path": "icons/commodities/biological/shell-ridged-green.webp"
+  },
+  {
+    "name": "Natural Athlete",
+    "racial_trait": "Natural Athlete",
+    "race": "",
+    "subrace": "",
+    "path": "icons/skills/melee/hand-grip-staff-yellow-brown.webp"
+  },
+  {
+    "name": "Natural Illusionist",
+    "racial_trait": "Natural Illusionist",
+    "race": "Gnome",
+    "subrace": "Forest Gnome",
+    "path": "icons/magic/air/wind-vortex-swirl-blue-purple.webp"
+  },
+  {
+    "name": "Natural Linguistics",
+    "racial_trait": "Natural Linguistics",
+    "race": "Huutgr",
+    "subrace": "Huutgr",
+    "path": "icons/sundries/scrolls/scroll-runed-brown-purple.webp"
+  },
+  {
+    "name": "Natural Tracker",
+    "racial_trait": "Natural Tracker",
+    "race": "Shifter",
+    "subrace": "Wildhunt",
+    "path": "icons/magic/nature/trap-spikes-thorns-green.webp"
+  },
+  {
+    "name": "Naturally Stealthy",
+    "racial_trait": "Naturally Stealthy",
+    "race": "Halfling",
+    "subrace": "Lightfoot Halfling",
+    "path": "icons/equipment/back/cloak-collared-blue-iron.webp"
+  },
+  {
+    "name": "Necrotic Resistance",
+    "racial_trait": "Necrotic Resistance",
+    "race": "Shadar-kai",
+    "subrace": "Shadar-kai",
+    "path": "icons/magic/unholy/orb-glowing-purple.webp"
+  },
+  {
+    "name": "Necrotic Shroud",
+    "racial_trait": "Necrotic Shroud",
+    "race": "Aasimar",
+    "subrace": "Fallen Aasimar",
+    "path": "icons/magic/control/fear-fright-monster-purple-blue.webp"
+  },
+  {
+    "name": "Nimble Escape",
+    "racial_trait": "Nimble Escape",
+    "race": "Goblin",
+    "subrace": "Goblin",
+    "path": "icons/equipment/feet/boots-armored-green.webp"
+  },
+  {
+    "name": "Observant and Athletic",
+    "racial_trait": "Observant and Athletic",
+    "race": "Locathah",
+    "subrace": "Locathah",
+    "path": "icons/commodities/biological/eye-tentacle-grey-orange.webp"
+  },
+  {
+    "name": "Pack Tactics",
+    "racial_trait": "Pack Tactics",
+    "race": "Kobold",
+    "subrace": "Kobold",
+    "path": "icons/weapons/polearms/javelin.webp"
+  },
+  {
+    "name": "Partially Amphibious",
+    "racial_trait": "Partially Amphibious",
+    "race": "Vedalken",
+    "subrace": "Vedalken",
+    "path": "icons/commodities/biological/tail-scaled-green.webp"
+  },
+  {
+    "name": "Persuasive",
+    "racial_trait": "Persuasive",
+    "race": "Verdan",
+    "subrace": "Verdan",
+    "path": "icons/magic/nature/lotus-glow-pink.webp"
+  },
+  {
+    "name": "Poison Immunity",
+    "racial_trait": "Poison Immunity",
+    "race": "",
+    "subrace": "",
+    "path": "icons/creatures/slimes/slime-movement-dripping-pseudopods-green.webp"
+  },
+  {
+    "name": "Poisonous Skin",
+    "racial_trait": "Poisonous Skin",
+    "race": "Grung",
+    "subrace": "Grung",
+    "path": "icons/commodities/biological/hand-clawed-green.webp"
+  },
+  {
+    "name": "Powerful Build",
+    "racial_trait": "Powerful Build",
+    "race": "",
+    "subrace": "",
+    "path": "icons/equipment/wrist/bracer-simple-leather-steel.webp"
+  },
+  {
+    "name": "Primal Connection",
+    "racial_trait": "Primal Connection",
+    "race": "Human",
+    "subrace": "Mark of Handling Human",
+    "path": "icons/magic/nature/wolf-paw-glow-teal-blue.webp"
+  },
+  {
+    "name": "Primal Intuition",
+    "racial_trait": "Primal Intuition",
+    "race": "Orc",
+    "subrace": "Orc",
+    "path": "icons/magic/control/fear-fright-monster-red.webp"
+  },
+  {
+    "name": "Rabbit Hop",
+    "racial_trait": "Rabbit Hop",
+    "race": "Harengon",
+    "subrace": "",
+    "path": "icons/creatures/mammals/rabbit-movement-glowing-green.webp"
+  },
+  {
+    "name": "Radiant Consumption",
+    "racial_trait": "Radiant Consumption",
+    "race": "Aasimar",
+    "subrace": "Scourge Aasimar",
+    "path": "icons/magic/light/explosion-star-glow-blue-purple.webp"
+  },
+  {
+    "name": "Radiant Soul",
+    "racial_trait": "Radiant Soul",
+    "race": "Aasimar",
+    "subrace": "Protector Aasimar",
+    "path": "icons/commodities/treasure/trinket-wing-white.webp"
+  },
+  {
+    "name": "Ram",
+    "racial_trait": "Ram",
+    "race": "Satyr",
+    "subrace": "Satyr",
+    "path": "icons/weapons/maces/mace-skull-ram.webp"
+  },
+  {
+    "name": "Raven Blood",
+    "racial_trait": "Raven Blood",
+    "race": "Touched by the Raven",
+    "subrace": "Touched by the Raven",
+    "path": "icons/skills/wounds/blood-spurt-spray-red.webp"
+  },
+  {
+    "name": "Reach to the Blaze",
+    "racial_trait": "Reach to the Blaze",
+    "race": "Genasi",
+    "subrace": "Fire Genasi",
+    "path": "icons/magic/fire/projectile-meteor-salvo-strong-red.webp"
+  },
+  {
+    "name": "Relentless Endurance",
+    "racial_trait": "Relentless Endurance",
+    "race": "Half-Orc",
+    "subrace": "Half-Orc",
+    "path": "icons/magic/death/undead-zombie-grave-green.webp"
+  },
+  {
+    "name": "Reveler",
+    "racial_trait": "Reveler",
+    "race": "Satyr",
+    "subrace": "Satyr",
+    "path": "icons/containers/kitchenware/goblet-jeweled-red.webp"
+  },
+  {
+    "name": "Savage Attacks",
+    "racial_trait": "Savage Attacks",
+    "race": "Half-Orc",
+    "subrace": "Half-Orc",
+    "path": "icons/skills/melee/strike-axe-blood-red.webp"
+  },
+  {
+    "name": "Saving Face",
+    "racial_trait": "Saving Face",
+    "race": "Hobgoblin",
+    "subrace": "Hobgoblin",
+    "path": "icons/skills/toxins/cup-goblet-poisoned-spilled.webp"
+  },
+  {
+    "name": "Scribe's Insight",
+    "racial_trait": "Scribe's Insight",
+    "race": "Gnome",
+    "subrace": "Mark of Scribing Gnome",
+    "path": "icons/tools/scribal/spectacles-glasses.webp"
+  },
+  {
+    "name": "Sea Elf Training",
+    "racial_trait": "Sea Elf Training",
+    "race": "Elf",
+    "subrace": "Sea Elf",
+    "path": "icons/weapons/polearms/trident-silver-blue.webp"
+  },
+  {
+    "name": "Sentinel's Intuition",
+    "racial_trait": "Sentinel's Intuition",
+    "race": "Human",
+    "subrace": "Mark of Sentinel Human",
+    "path": "icons/creatures/eyes/humanoid-single-blue.webp"
+  },
+  {
+    "name": "Sentry's Rest",
+    "racial_trait": "Sentry's Rest",
+    "race": "Warforged",
+    "subrace": "Warforged",
+    "path": "icons/sundries/lights/lantern-iron-yellow.webp"
+  },
+  {
+    "name": "Severed from Dreams",
+    "racial_trait": "Severed from Dreams",
+    "race": "Kalashtar",
+    "subrace": "Kalashtar",
+    "path": "icons/skills/melee/strike-blade-knife-blue-red.webp"
+  },
+  {
+    "name": "Shape Shadows",
+    "racial_trait": "Shape Shadows",
+    "race": "Elf",
+    "subrace": "Mark of Shadow Elf",
+    "path": "icons/equipment/back/cloak-collared-blue-iron.webp"
+  },
+  {
+    "name": "Shapechanger",
+    "racial_trait": "Shapechanger",
+    "race": "Changeling",
+    "subrace": "Changeling",
+    "path": "icons/creatures/unholy/demon-fanged-horned-yellow.webp"
+  },
+  {
+    "name": "Shell Defense",
+    "racial_trait": "Shell Defense",
+    "race": "Tortle",
+    "subrace": "Tortle",
+    "path": "icons/commodities/biological/shell-turtle-grey.webp"
+  },
+  {
+    "name": "Shifting",
+    "racial_trait": "Shifting",
+    "race": "Shifter",
+    "subrace": "",
+    "path": "icons/creatures/abilities/cougar-pounce-stalk-black.webp"
+  },
+  {
+    "name": "Shifting Feature",
+    "racial_trait": "Shifting Feature",
+    "race": "Shifter",
+    "subrace": "",
+    "path": "icons/commodities/leather/fur-brown-gold.webp"
+  },
+  {
+    "name": "Silent Speech",
+    "racial_trait": "Silent Speech",
+    "race": "Halfling",
+    "subrace": "Ghostwise Halfling",
+    "path": "icons/magic/control/energy-stream-link-blue.webp"
+  },
+  {
+    "name": "Skill Versatility",
+    "racial_trait": "Skill Versatility",
+    "race": "Half-Elf",
+    "subrace": "Half-Elf",
+    "path": "icons/commodities/tech/metal-blue.webp"
+  },
+  {
+    "name": "Skills",
+    "racial_trait": "Skills",
+    "race": "Human",
+    "subrace": "Variant Human",
+    "path": "icons/tools/hand/brush-paint-brown-white.webp"
+  },
+  {
+    "name": "Sneaky",
+    "racial_trait": "Sneaky",
+    "race": "Bugbear",
+    "subrace": "Bugbear",
+    "path": "icons/creatures/unholy/demon-hairy-winged-pink.webp"
+  },
+  {
+    "name": "Speak with Small Beasts",
+    "racial_trait": "Speak with Small Beasts",
+    "race": "Gnome",
+    "subrace": "Forest Gnome",
+    "path": "icons/commodities/treasure/figurine-rabbit.webp"
+  },
+  {
+    "name": "Speech of Beast and Leaf",
+    "racial_trait": "Speech of Beast and Leaf",
+    "race": "Firbolg",
+    "subrace": "Firbolg",
+    "path": "icons/magic/nature/tree-animated-strike.webp"
+  },
+  {
+    "name": "Spells of the Mark",
+    "racial_trait": "Spells of the Mark",
+    "race": "",
+    "subrace": "",
+    "path": "icons/sundries/scrolls/scroll-runed-tan.webp"
+  },
+  {
+    "name": "Spellsmith",
+    "racial_trait": "Spellsmith",
+    "race": "Human",
+    "subrace": "Mark of Making Human",
+    "path": "icons/skills/melee/strike-hammer-destructive-orange.webp"
+  },
+  {
+    "name": "Spider Climb",
+    "racial_trait": "Spider Climb",
+    "race": "Dhampir",
+    "subrace": "Dhampir",
+    "path": "icons/commodities/biological/legs-insect-brown.webp"
+  },
+  {
+    "name": "Standing Leap",
+    "racial_trait": "Standing Leap",
+    "race": "Grung",
+    "subrace": "Grung",
+    "path": "icons/commodities/biological/foot-amphibian-green.webp"
+  },
+  {
+    "name": "Stone Camouflage",
+    "racial_trait": "Stone Camouflage",
+    "race": "Gnome",
+    "subrace": "Deep Gnome",
+    "path": "icons/commodities/treasure/statue-bust-stone-grey.webp"
+  },
+  {
+    "name": "Stone's Endurance",
+    "racial_trait": "Stone's Endurance",
+    "race": "Goliath",
+    "subrace": "Goliath",
+    "path": "icons/equipment/shield/heater-stone-orange.webp"
+  },
+  {
+    "name": "Stonecunning",
+    "racial_trait": "Stonecunning",
+    "race": "Dwarf",
+    "subrace": "",
+    "path": "icons/commodities/stone/masonry-block-cube-pink-white.webp"
+  },
+  {
+    "name": "Storm's Boon",
+    "racial_trait": "Storm's Boon",
+    "race": "Half-Elf",
+    "subrace": "Mark of Storm Half-Elf",
+    "path": "icons/magic/lightning/bolt-forked-blue.webp"
+  },
+  {
+    "name": "Stout Resilience",
+    "racial_trait": "Stout Resilience",
+    "race": "Halfling",
+    "subrace": "Stout Halfling",
+    "path": "icons/sundries/survival/waterskin-leather-brown.webp"
+  },
+  {
+    "name": "Sunlight Sensitivity",
+    "racial_trait": "Sunlight Sensitivity",
+    "race": "",
+    "subrace": "",
+    "path": "icons/magic/nature/root-vine-thorned-fire-purple.webp"
+  },
+  {
+    "name": "Superior Darkvision",
+    "racial_trait": "Superior Darkvision",
+    "race": "",
+    "subrace": "",
+    "path": "icons/magic/perception/eye-ringed-glow-angry-teal.webp"
+  },
+  {
+    "name": "Surprise Attack",
+    "racial_trait": "Surprise Attack",
+    "race": "Bugbear",
+    "subrace": "Bugbear",
+    "path": "icons/skills/melee/blade-tip-chipped-blood-red.webp"
+  },
+  {
+    "name": "Survival Instinct",
+    "racial_trait": "Survival Instinct",
+    "race": "Tortle",
+    "subrace": "Tortle",
+    "path": "icons/weapons/staves/staff-vines-green.webp"
+  },
+  {
+    "name": "Swiftstride Reaction",
+    "racial_trait": "Swiftstride Reaction",
+    "race": "Shifter",
+    "subrace": "Swiftstride",
+    "path": "icons/creatures/mammals/deer-movement-leap-green.webp"
+  },
+  {
+    "name": "Swim",
+    "racial_trait": "Swim",
+    "race": "Genasi",
+    "subrace": "Water Genasi",
+    "path": "icons/magic/water/pseudopod-teal.webp"
+  },
+  {
+    "name": "Swimming Speed",
+    "racial_trait": "Swimming Speed",
+    "race": "Half-Elf",
+    "subrace": "Aquatic Half-Elf",
+    "path": "icons/magic/water/pseudopod-teal.webp"
+  },
+  {
+    "name": "Talons",
+    "racial_trait": "Talons",
+    "race": "Aarakocra",
+    "subrace": "Aarakocra",
+    "path": "icons/creatures/claws/claw-scaled-red.webp"
+  },
+  {
+    "name": "Telepathic Insight",
+    "racial_trait": "Telepathic Insight",
+    "race": "Verdan",
+    "subrace": "Verdan",
+    "path": "icons/magic/air/air-burst-spiral-teal-green.webp"
+  },
+  {
+    "name": "The Bigger They Are",
+    "racial_trait": "The Bigger They Are",
+    "race": "Human",
+    "subrace": "Mark of Handling Human",
+    "path": "icons/magic/death/skeleton-dinosaur-skull-tan.webp"
+  },
+  {
+    "name": "Timberwalk",
+    "racial_trait": "Timberwalk",
+    "race": "Halfling",
+    "subrace": "Lotusden Halfling",
+    "path": "icons/commodities/treasure/plaque-wood-tree.webp"
+  },
+  {
+    "name": "Tinker",
+    "racial_trait": "Tinker",
+    "race": "Gnome",
+    "subrace": "Rock Gnome",
+    "path": "icons/equipment/head/goggles-leather-grey.webp"
+  },
+  {
+    "name": "Tireless Precision",
+    "racial_trait": "Tireless Precision",
+    "race": "Vedalken",
+    "subrace": "Vedalken",
+    "path": "icons/commodities/tech/cog-large-steel-white.webp"
+  },
+  {
+    "name": "Tool Proficiency",
+    "racial_trait": "Tool Proficiency",
+    "race": "",
+    "subrace": "",
+    "path": "icons/equipment/neck/amulet-carved-stone-hammer.webp"
+  },
+  {
+    "name": "Trance",
+    "racial_trait": "Trance",
+    "race": "Elf",
+    "subrace": "",
+    "path": "icons/magic/water/orb-ice-web.webp"
+  },
+  {
+    "name": "Trunk",
+    "racial_trait": "Trunk",
+    "race": "Loxodon",
+    "subrace": "Loxodon",
+    "path": "icons/commodities/biological/shell-ribbed-purple.webp"
+  },
+  {
+    "name": "Unending Breath",
+    "racial_trait": "Unending Breath",
+    "race": "Genasi",
+    "subrace": "Air Genasi",
+    "path": "icons/magic/air/wind-swirl-gray-blue.webp"
+  },
+  {
+    "name": "Valenar Elf",
+    "racial_trait": "Valenar Elf",
+    "race": "Elf",
+    "subrace": "",
+    "path": "icons/weapons/swords/scimitar-guard-wood.webp"
+  },
+  {
+    "name": "Vampiric Bite",
+    "racial_trait": "Vampiric Bite",
+    "race": "Dhampir",
+    "subrace": "Dhampir",
+    "path": "icons/skills/wounds/bone-broken-tooth-fang-red.webp"
+  },
+  {
+    "name": "Variable Trait",
+    "racial_trait": "Variable Trait",
+    "race": "Custom Lineage",
+    "subrace": "Custom Lineage",
+    "path": "icons/sundries/scrolls/scroll-runed-worn-tan.webp"
+  },
+  {
+    "name": "Variant Tiefling",
+    "racial_trait": "Variant Tiefling",
+    "race": "Tiefling",
+    "subrace": "",
+    "path": "icons/sundries/scrolls/scroll-plain-red.webp"
+  },
+  {
+    "name": "Vedalken Dispassion",
+    "racial_trait": "Vedalken Dispassion",
+    "race": "Vedalken",
+    "subrace": "Vedalken",
+    "path": "icons/magic/symbols/runes-triangle-orange-purple.webp"
+  },
+  {
+    "name": "Vengeful Assault",
+    "racial_trait": "Vengeful Assault",
+    "race": "Dragonborn",
+    "subrace": "Ravenite Dragonborn",
+    "path": "icons/skills/melee/strike-slashes-orange.webp"
+  },
+  {
+    "name": "Vigilant Guardian",
+    "racial_trait": "Vigilant Guardian",
+    "race": "Human",
+    "subrace": "Mark of Sentinel Human",
+    "path": "icons/equipment/shield/buckler-wooden-boss-glowing-blue.webp"
+  },
+  {
+    "name": "Warder's Intuition",
+    "racial_trait": "Warder's Intuition",
+    "race": "Dwarf",
+    "subrace": "Mark of Warding Dwarf",
+    "path": "icons/commodities/treasure/token-engraved-pickaxe-pink.webp"
+  },
+  {
+    "name": "Wards and Seals",
+    "racial_trait": "Wards and Seals",
+    "race": "Dwarf",
+    "subrace": "Mark of Warding Dwarf",
+    "path": "icons/sundries/documents/document-worn-symbol-brown.webp"
+  },
+  {
+    "name": "Water Dependency",
+    "racial_trait": "Water Dependency",
+    "race": "Grung",
+    "subrace": "Grung",
+    "path": "icons/commodities/materials/liquid-droplet-blue.webp"
+  },
+  {
+    "name": "Wild Intuition",
+    "racial_trait": "Wild Intuition",
+    "race": "Human",
+    "subrace": "Mark of Handling Human",
+    "path": "icons/magic/nature/wolf-paw-glow-orange.webp"
+  },
+  {
+    "name": "Windwright's Intuition",
+    "racial_trait": "Windwright's Intuition",
+    "race": "Half-Elf",
+    "subrace": "Mark of Storm Half-Elf",
+    "path": "icons/tools/navigation/compass-brass-blue-red.webp"
+  },
+  {
+    "name": "Celestial Revelation (Radiant Soul)",
+    "racial_trait": "Celestial Revelation (Radiant Soul)",
+    "race": "Aasimar",
+    "subrace": "",
+    "path": "icons/magic/control/buff-flight-wings-runes-purple-orange.webp"
+  },
+  {
+    "name": "Celestial Revelation",
+    "racial_trait": "Celestial Revelation",
+    "race": "Aasimar",
+    "subrace": "",
+    "path": "icons/magic/control/buff-flight-wings-runes-purple-orange.webp"
+  },
+  {
+    "name": "Hadozee Dodge",
+    "racial_trait": "Hadozee Dodge",
+    "race": "Hadozee",
+    "subrace": "",
+    "path": "icons/skills/movement/figure-running-gray.webp"
+  },
+  {
+    "name": "Draconic Cry",
+    "racial_trait": "Draconic Cry",
+    "race": "Kobold",
+    "subrace": "",
+    "path": "icons/creatures/magical/spirit-fire-yellow.webp"
+  },
+  {
+    "name": "Chromatic Warding",
+    "racial_trait": "Chromatic Warding",
+    "race": "Dragonborn",
+    "subrace": "Chromatic Dragonborn",
+    "path": "icons/magic/symbols/rune-sigil-horned-blue.webp"
+  },
+  {
+    "name": "Acid Breath Weapon",
+    "racial_trait": "Acid Breath Weapon",
+    "race": "Dragonborn",
+    "subrace": "Chromatic Dragonborn",
+    "path": "icons/creatures/abilities/dragon-breath-purple.webp"
+  },
+  {
+    "name": "Lightning Breath Weapon",
+    "racial_trait": "Lightning Breath Weapon",
+    "race": "Dragonborn",
+    "subrace": "Chromatic Dragonborn",
+    "path": "icons/creatures/abilities/dragon-ice-breath-blue.webp"
+  },
+  {
+    "name": "Poison Breath Weapon",
+    "racial_trait": "Poison Breath Weapon",
+    "race": "Dragonborn",
+    "subrace": "Chromatic Dragonborn",
+    "path": "icons/creatures/abilities/dragon-breath-purple.webp"
+  },
+  {
+    "name": "Fire Breath Weapon",
+    "racial_trait": "Fire Breath Weapon",
+    "race": "Dragonborn",
+    "subrace": "Chromatic Dragonborn",
+    "path": "icons/creatures/abilities/dragon-fire-breath-orange.webp"
+  },
+  {
+    "name": "Cold Breath Weapon",
+    "racial_trait": "Lighting Breath Weapon",
+    "race": "Dragonborn",
+    "subrace": "Chromatic Dragonborn",
+    "path": "icons/creatures/abilities/dragon-ice-breath-blue.webp"
+  },
+  {
+    "name": "Armored Casing",
+    "race": "Autognome",
+    "racial_trait": "Armored Casing",
+    "path": "icons/creatures/magical/construct-stone-earth-gray.webp"
+  }
+]

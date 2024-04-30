@@ -1,0 +1,65 @@
+<form class="{{content.cssClass}}" autocomplete="off" onsubmit="event.preventDefault();">
+  <header class="sheet-header">
+    <img class="item-icon" src="{{content.img}}" data-edit="img">
+    <h3 class="item-title">Resource Selection ({{content.character}})</h3>
+  </header>
+
+  <div><b>Auto:</b> Top 3 most numerous abilities (calculated on import).</div>
+  <div><b>Custom:</b> Select from list (dropdowns below).</div>
+  <div><b>Disable:</b> Retains user resources.</div>
+  <div><b>Remove:</b> Remove resources, disables this dialogue.</div>
+
+  <div class="form-description">
+    <div class="form-group">
+      <p><b>Primary</b></p>
+      <select name="primary-select" class="form-select" id="primary-select">
+        <option value="">Primary resource:</option>
+        {{#each content.resources}}
+        <option value="{{this.label}}" {{#if this.primary}}selected{{/if}}>{{this.label}} (max: {{this.max}}, reset: {{this.resetString}})</option>
+        {{/each}}
+      </select>
+    </div>
+    <div class="form-group">
+      <p><b>Secondary</b></p>
+      <select name="secondary-select" class="form-select" id="secondary-select">
+        <option value="">Secondary resource:</option>
+        {{#each content.resources}}
+        <option value="{{this.label}}" {{#if this.secondary}}selected{{/if}}>{{this.label}} (max: {{this.max}}, reset: {{this.resetString}})</option>
+        {{/each}}
+      </select>
+    </div>
+    <div class="form-group">
+      <p><b>Tertiary</b></p>
+      <select name="tertiary-select" class="form-select" id="tertiary-select">
+        <option value="">Tertiary resource:</option>
+        {{#each content.resources}}
+        <option value="{{this.label}}" {{#if this.tertiary}}selected{{/if}}>{{this.label}} (max: {{this.max}}, reset: {{this.resetString}})</option>
+        {{/each}}
+      </select>
+    </div>
+  </div>
+  <hr>
+  <label class="import-policy"><input checked type="checkbox"
+          name="ask-resources" data-section="ask-resources">Show this dialogue every time (can be re-enabled in Advanced Settings)
+  </label>
+  <hr>
+  <div class="dialog-buttons">
+      <button class="dialog-button" data-button="default">
+        <i class="fas fa-check"></i>
+        Auto
+      </button>
+      <button class="dialog-button" data-button="custom">
+        <i class="fas fa-book-open"></i>
+        Custom
+      </button>
+      <button class="dialog-button" data-button="disable">
+        <i class="fas fa-times"></i>
+        Disable
+      </button>
+      <button class="dialog-button" data-button="remove">
+        <i class="fas fa-times"></i>
+        Remove
+      </button>
+    </div>
+
+</form>
